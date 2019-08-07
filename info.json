@@ -57,8 +57,8 @@
                 "subtype": "hero",
                 "tags": "[\"hero\"]",
                 "menu_order": "0",
-                "popularity_index": "58",
-                "trend_index": "64",
+                "popularity_index": "0",
+                "trend_index": "0",
                 "has_page_settings": "0"
             },
             {
@@ -71,9 +71,9 @@
                 "type": "page",
                 "subtype": "page",
                 "tags": "[]",
-                "menu_order": "154",
-                "popularity_index": "17",
-                "trend_index": "22",
+                "menu_order": "0",
+                "popularity_index": "0",
+                "trend_index": "0",
                 "has_page_settings": "0"
             }
         ]
